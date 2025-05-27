@@ -18,7 +18,7 @@ pip install az-func-state
 ## Usage
 
 ```python
-from main import AzFuncState
+from azfuncstate import AzFuncState
 
 # Initialize with your connection string
 conn_str = "YOUR_CONNECTION_STRING"
