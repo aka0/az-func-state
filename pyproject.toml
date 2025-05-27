@@ -1,0 +1,9 @@
+[project]
+name = "az-func-state"
+version = "0.1.0"
+description = "Simple utility class to track state using Azure Blob Storage"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-storage-blob>=12.19.0"
+]
